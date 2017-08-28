@@ -1,6 +1,6 @@
 # readme
 
-- My Name:
-- My Date of Birth:
-- My Computer of Choice:
-- My Favorite Movie:
+- My Name: Jevon Wallace
+- My Date of Birth: 07/21/1985
+- My Computer of Choice: Mac
+- My Favorite Movie: N/A
